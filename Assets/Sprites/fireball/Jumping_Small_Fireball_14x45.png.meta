@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 65508b7b242f5144cbdc66de1ea50caa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4716993, y: 0.8433824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fbde1f903a0b044ba54308e47f8c19
+      internalID: 1958486180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47169945, y: 0.8433824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda13827c82e36b4886219b613b4f475
+      internalID: 1501045422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45754868, y: 0.8477844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555bfa696f014fd4ca18a3a2b3a75f94
+      internalID: 281104464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4575495, y: 0.8477844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b9a286d68ebbc45af016daad1b2e1b
+      internalID: -65795070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47169957, y: 0.8477844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d23ddfa100df745bd71bcdca0b5629
+      internalID: 693155867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4716993, y: 0.8433824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565d0a2261dfd14f9019fa909e2543d
+      internalID: -118122778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4575495, y: 0.8169678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45099ad8f8405164c81ae1aaa6f8465f
+      internalID: 144163725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4716993, y: 0.79495645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400bc8fadcf169249ac8173e5bd85e56
+      internalID: 1915975081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44339862, y: 0.77294445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ce552dcad25149857fd6fd971c064
+      internalID: 96406811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 225
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48584965, y: 0.7245192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7de6806eac7d3f4eb69c4554c2aa25e
+      internalID: -98303549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48584968, y: 0.68930054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b494952ea9a31434585ddf94ea766641
+      internalID: 44673898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.64967924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c107958935bbe74fbc540aa3a232e44
+      internalID: -1078456325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48584965, y: 0.62766755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8ce83fa2cd6b64cafbd311d11e4de7
+      internalID: -72061676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.5836443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46f33c0c545644b84a6eec16b7800d
+      internalID: -963666220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48584992, y: 0.55282795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ca10116e1a35f4d9768839ed2d5213
+      internalID: -675618117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49119535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbce49b9c693d443ac89020302a9862
+      internalID: 1971798492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4858502, y: 0.47358602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b36a75a151fdfc4d917c5bc4d541cf9
+      internalID: 1487017849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4716993, y: 0.42956272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6380a2afe4dbf04893ec19a2d670775
+      internalID: 681215819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3987464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70fdac654a274c409dd03287b3678dd
+      internalID: 2126099725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 180
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4716993, y: 0.3547231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4cc4e3ce8d6441bda1272ef83a564
+      internalID: -1332573770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976654, y: 0.3205875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f93a06f2fcf684c96ebe21bad7b2ca
+      internalID: -1876117498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4865889, y: 0.3080702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d1be9d651e50409f70c406ce8f841
+      internalID: -1184204667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976612, y: 0.2746911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ce7fb7f026144ca66080b69b0e31f
+      internalID: 1089840440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317776, y: 0.25382927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470f1ff54ff2b2e438b74616db41a13b
+      internalID: 1172559626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_24
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317806, y: 0.2121053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5e26b49e90e948ae911c4a3f8de83
+      internalID: 1293402987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.18707071}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665833dc0a80d447a9626e72b7d99e0
+      internalID: -1730407238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48658916, y: 0.16620891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8522825a0d1a363448fb8f6db40c0116
+      internalID: -822413609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317776, y: 0.15786403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951e0a9573b00744a534764f411012f
+      internalID: -1137806657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4597664, y: 0.14951952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22cde5703526af4aaca904802224478
+      internalID: -1554198882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 135
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976585, y: 0.14951952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3571580148d3b40afb5d197ede5c8c
+      internalID: 1526845104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317776, y: 0.1328298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ec12029f977b043811edb5dec0a29a
+      internalID: -1516886098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317764, y: 0.14117466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae8fc773e41ee408601ff2131830a9
+      internalID: -1907490134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14534691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9f770fe9c1f54e9186477d8886fa4
+      internalID: 570178132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317776, y: 0.15786421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35bdc8af53b62e4796b16d5ad363421
+      internalID: 748814901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48658916, y: 0.15369178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4c16148a5d7b4c80e2fb16981e0c3
+      internalID: -16720908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.15369178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec2cf595d032f647ae2ef4429c0354b
+      internalID: 536964585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48658916, y: 0.19124332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d8d21f35d59ee49bb5551b6446fda4
+      internalID: 290863715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976692, y: 0.21210548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e8bc4d5302a0540873d7a46cc108ce
+      internalID: -388307652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.25382912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d947cbc98ae424b8e9bc0de7a28c57
+      internalID: 1353098118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 90
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976585, y: 0.24965668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093a1c033e4df7d408dce9502870b308
+      internalID: -1571616215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976654, y: 0.2997255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8ec049ef2a86f489d93bc749bc4ad5
+      internalID: 429047931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4597664, y: 0.32475984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2841d8979c06a84fb1b11bce09d8cd8
+      internalID: -363800047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3623114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e585cae9402c761449b1e9c76612e131
+      internalID: 525662608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4597664, y: 0.39986283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4abed05125d8f14d86ebd6a03d93ad7
+      internalID: 1238601630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976666, y: 0.43324196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf41c2eebc9e67a4c9314e3bd00b3dff
+      internalID: 919405973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.4958279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73043de6b961adf48aa755fd80f47ac9
+      internalID: 2072347344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.48658916, y: 0.508345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55613d574993ce745a6925d284f36566
+      internalID: -1991602148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317776, y: 0.5667584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b1ff2d496f1444bf0d7eba51b8335
+      internalID: 470825410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.57093084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f058382c8852244b8999fd3635b657
+      internalID: 1251723000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976585, y: 0.6418615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49437ac7fa95233488be919eade2938d
+      internalID: 1609338785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317776, y: 0.6460337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67294f66bde92ea40827f44c26a674d7
+      internalID: -1309487217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317764, y: 0.6710681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d01290062f95054aa2be7ddb88c8443
+      internalID: 30730882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976612, y: 0.70444715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c9acbd1da928b4eb6a73a13594c5c8
+      internalID: -831237987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44635528, y: 0.74199873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6d33fa40f3b34f955da1dca9b3ca1
+      internalID: -1306680754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44635555, y: 0.76703304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262daafb735d2384d869d0eb6db590a2
+      internalID: 225566146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.7795502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a931f266d21ba42b4f054f60b44d8f
+      internalID: -2107706962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.4597664, y: 0.8004122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606e4204f5ac77d4893d1400c69d0d17
+      internalID: 1797458157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.44635555, y: 0.8129293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5815a004db97044584c6082075168ec
+      internalID: 335260726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.47317722, y: 0.82961893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb330bd5629da43b33342eff53bab7
+      internalID: 2051040382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumping_Small_Fireball_14x45_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 14
+        height: 45
+      alignment: 9
+      pivot: {x: 0.45976585, y: 0.8504808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee1ee4550693d4f899a3c8e689758a
+      internalID: -1261499222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jumping_Small_Fireball_14x45_0: 1958486180
+      Jumping_Small_Fireball_14x45_1: 1501045422
+      Jumping_Small_Fireball_14x45_10: 44673898
+      Jumping_Small_Fireball_14x45_11: -1078456325
+      Jumping_Small_Fireball_14x45_12: -72061676
+      Jumping_Small_Fireball_14x45_13: -963666220
+      Jumping_Small_Fireball_14x45_14: -675618117
+      Jumping_Small_Fireball_14x45_15: 1971798492
+      Jumping_Small_Fireball_14x45_16: 1487017849
+      Jumping_Small_Fireball_14x45_17: 681215819
+      Jumping_Small_Fireball_14x45_18: 2126099725
+      Jumping_Small_Fireball_14x45_19: -1332573770
+      Jumping_Small_Fireball_14x45_2: 281104464
+      Jumping_Small_Fireball_14x45_20: -1876117498
+      Jumping_Small_Fireball_14x45_21: -1184204667
+      Jumping_Small_Fireball_14x45_22: 1089840440
+      Jumping_Small_Fireball_14x45_23: 1172559626
+      Jumping_Small_Fireball_14x45_24: 1293402987
+      Jumping_Small_Fireball_14x45_25: -1730407238
+      Jumping_Small_Fireball_14x45_26: -822413609
+      Jumping_Small_Fireball_14x45_27: -1137806657
+      Jumping_Small_Fireball_14x45_28: -1554198882
+      Jumping_Small_Fireball_14x45_29: 1526845104
+      Jumping_Small_Fireball_14x45_3: -65795070
+      Jumping_Small_Fireball_14x45_30: -1516886098
+      Jumping_Small_Fireball_14x45_31: -1907490134
+      Jumping_Small_Fireball_14x45_32: 570178132
+      Jumping_Small_Fireball_14x45_33: 748814901
+      Jumping_Small_Fireball_14x45_34: -16720908
+      Jumping_Small_Fireball_14x45_35: 536964585
+      Jumping_Small_Fireball_14x45_36: 290863715
+      Jumping_Small_Fireball_14x45_37: -388307652
+      Jumping_Small_Fireball_14x45_38: 1353098118
+      Jumping_Small_Fireball_14x45_39: -1571616215
+      Jumping_Small_Fireball_14x45_4: 693155867
+      Jumping_Small_Fireball_14x45_40: 429047931
+      Jumping_Small_Fireball_14x45_41: -363800047
+      Jumping_Small_Fireball_14x45_42: 525662608
+      Jumping_Small_Fireball_14x45_43: 1238601630
+      Jumping_Small_Fireball_14x45_44: 919405973
+      Jumping_Small_Fireball_14x45_45: 2072347344
+      Jumping_Small_Fireball_14x45_46: -1991602148
+      Jumping_Small_Fireball_14x45_47: 470825410
+      Jumping_Small_Fireball_14x45_48: 1251723000
+      Jumping_Small_Fireball_14x45_49: 1609338785
+      Jumping_Small_Fireball_14x45_5: -118122778
+      Jumping_Small_Fireball_14x45_50: -1309487217
+      Jumping_Small_Fireball_14x45_51: 30730882
+      Jumping_Small_Fireball_14x45_52: -831237987
+      Jumping_Small_Fireball_14x45_53: -1306680754
+      Jumping_Small_Fireball_14x45_54: 225566146
+      Jumping_Small_Fireball_14x45_55: -2107706962
+      Jumping_Small_Fireball_14x45_56: 1797458157
+      Jumping_Small_Fireball_14x45_57: 335260726
+      Jumping_Small_Fireball_14x45_58: 2051040382
+      Jumping_Small_Fireball_14x45_59: -1261499222
+      Jumping_Small_Fireball_14x45_6: 144163725
+      Jumping_Small_Fireball_14x45_7: 1915975081
+      Jumping_Small_Fireball_14x45_8: 96406811
+      Jumping_Small_Fireball_14x45_9: -98303549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
